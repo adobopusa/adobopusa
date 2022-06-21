@@ -1,0 +1,3 @@
+- 👋 hello, i’m @adobopusa
+- 👀 i’m interested in different kind of games
+- 🌱 i’m currently learning c language and c++
